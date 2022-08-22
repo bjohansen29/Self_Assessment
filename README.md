@@ -1,2 +1,13 @@
-# Self_Assessment
-final project self assessment
+## Self-Assessment
+My initial role in our group's final project revolved around refining our data question, sourcing real-world data, and cleaning and identifying the additional needed information, creating a database schema, loading and launching our RDS database. 
+The other members of my team worked to organize our repository, create a machine learning model, and create a dashboard showcasing our conclusions. One huge strength of our team was a lack of silos- while each of us were responsible for overseeing a portion, in our regular meetings, we were able to successful discuss challenges and work through and test potential solutions. 
+I encountered several fairly significant challenges in my personal life during the course of the final project, including caring for my father as he recovered from a heart attack and the placement of a stent, which happened about a week in. I was already behind on my course work following a covid bout in my household, so another difficult portion of this project was that I was simultaneously catching up on the final modules and attempting to apply them in our group project. I hope that I was more helpful to my team than not, because I often felt that I was just not at the top of my game. 
+
+## Team Assessment
+Our team quickly established a Slack group of our own and used that as our main communication channel. We scheduled multiple zoom sessions on weekends and outside of class, as well as meeting together during group work time. I think that each of us had our own areas where we truly lacked confidence in our abilities, and that was a major challenge for the group as a whole. 
+One additional challenge was, I believe, typical of any self-selected project: we simply bit off a huge chunk without really knowing what we were getting ourselves into. 
+Although paring down our original goals and data selection was a difficult decision to make, it did demonstrate the way that our group was able to constantly pivot, reformulate our plans and research questions, and move forward without drama. I really appreciated that our group was able to troubleshoot and problem-solve on the fly.
+If I was giving advice to a new group, it would be to just be completely honest and make sure that you don't have an ego in the answer to any questions you're asking. One of our group's biggest successes was being able to discuss the things we did that were not working. If any of us had hid those difficulties from the group and attempted to solve or cover them up on their own, the project simply would have failed.
+
+## Summary
+A deep dive into the Wisconsin Department of Public Instruction data around school district expenditures on co-curricular activities and any correlations to post-secondary outcomes. 
